@@ -1,0 +1,5 @@
+usage: seek [OPTIONS] PATTERN [PATH ...]
+
+Search each PATH (default: .) for lines containing PATTERN.
+Directories are searched recursively; - means standard input.
+Exit status: 0 if a line was selected, 1 if not, 2 if there was trouble.

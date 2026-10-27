@@ -1,0 +1,2 @@
+seek: find lines that match
+(embedded at compile time)
